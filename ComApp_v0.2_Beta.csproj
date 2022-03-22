@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>ComApp_v0._2_Beta</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Res\close_btn_active.png" />
+    <None Remove="Res\close_btn_not_active.png" />
+    <None Remove="Res\ponita.png" />
+    <None Remove="Res\settings.png" />
+    <None Remove="Res\sylvion.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Res\close_btn_active.png" />
+    <Resource Include="Res\close_btn_not_active.png" />
+    <Resource Include="Res\ponita.png" />
+    <Resource Include="Res\settings.png" />
+    <Resource Include="Res\sylvion.png" />
+  </ItemGroup>
+
+</Project>

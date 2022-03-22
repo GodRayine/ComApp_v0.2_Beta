@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComApp_v0.2_Beta", "ComApp_v0.2_Beta.csproj", "{C377FB8A-5076-4198-BCFF-31A447D24EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C377FB8A-5076-4198-BCFF-31A447D24EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C377FB8A-5076-4198-BCFF-31A447D24EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C377FB8A-5076-4198-BCFF-31A447D24EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C377FB8A-5076-4198-BCFF-31A447D24EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5973887-D3B2-40EE-BB05-9027BBA13575}
+	EndGlobalSection
+EndGlobal
